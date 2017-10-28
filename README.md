@@ -1,2 +1,2 @@
 # cs231n-2017sping
-From CS231n Convolutional Neural Networks for Visual Recognition<http://cs231n.github.io/>
+From <a href="http://cs231n.github.io/">CS231n Convolutional Neural Networks for Visual Recognition</a>
