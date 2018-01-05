@@ -8,4 +8,4 @@ The amazing task will benefit my career in DL.
 * Assignment 2 (completed but PyTorch)
 * Assignment 3 (completed but PyTorch)
 
-The installation of PyTorch bother my schedule.I will come back to continue the rest of the task with PyTorch.
+The installation of PyTorch bothers my schedule.I will come back to continue the rest of the task with PyTorch.
